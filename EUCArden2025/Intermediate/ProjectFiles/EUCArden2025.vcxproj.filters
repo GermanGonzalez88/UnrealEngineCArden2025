@@ -50,5 +50,6 @@
     <ClCompile Include="..\..\Source\EUCArden2025\MyActorTest.h">
       <Filter>Source\EUCArden2025</Filter>
     </ClCompile>
+    <None Include="cpp.hint" />
   </ItemGroup>
 </Project>
